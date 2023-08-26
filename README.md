@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keshav
 - 👀 I’m interested in interacting with more experienced Devs
-- 🌱 I’m currently learning Android Development 
+- 🌱 I’m currently into Backend Devlopment. 
 - 📫 Feel free to contact me. My mail :  keshavgogia75@gmail.com
 
 <!---
